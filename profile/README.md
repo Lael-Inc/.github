@@ -1,5 +1,3 @@
-# Welcome to Lael Corp GitHub Organization
-
 ![Lael Corp Logo](https://github.com/Lael-Inc/.github/blob/main/assets/logo.png)
 
 **Innovating the Future through Technology | Unleashing Creativity and Excellence in Every Line of Code**
